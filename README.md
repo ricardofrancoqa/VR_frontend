@@ -16,13 +16,13 @@ Siga os passos abaixo para configurar e instalar o projeto:
 1. Clone o repositório do projeto:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/ricardofrancoqa/VR_frontend.git
     ```
 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd seu-repositorio
+    cd VR_frontend
     ```
 
 3. Instale as dependências do projeto usando npm ou yarn:
